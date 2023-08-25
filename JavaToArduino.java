@@ -5,7 +5,6 @@
  *For the jSerialComm documentation, go here: https://fazecast.github.io/jSerialComm/javadoc/index.html
  *JavaFX documentation: https://openjfx.io/javadoc/20/
  *Download the external library here: https://fazecast.github.io/jSerialComm/
- *Before running the Java code, make sure that the Arduino IDE is closed.
  *Make sure that your circuit is all wired correctly, otherwise it may cause problems.
  *Make sure you know what you are doing before modifying the code.
  *Set up the libraries first.
